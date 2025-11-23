@@ -27,8 +27,8 @@ Each child i has a greed factor g[i], which is the minimum size of a cookie that
 ## Program:
 ```
 /*
-Developed by: Mohamed Muffashal K A
-Register Number:  212222220024
+Developed by: SANJAY G
+Register Number: 212222230131
 */
 
 import java.util.*;

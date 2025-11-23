@@ -30,8 +30,8 @@ Output: Pattern found at index 0, Pattern found at index 9, Pattern found at ind
 ## Program:
 ```
 /*
-Developed by: Mohamed Muffashal K A
-Register Number:  212222220024
+Developed by: SANJAY G
+Register Number: 212222230131
 */
 import java.util.Scanner;
 
